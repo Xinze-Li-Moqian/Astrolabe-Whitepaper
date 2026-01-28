@@ -9,14 +9,10 @@ January 2026
 ## Abstract
 
 Mathematics is the language of the universe. For centuries, it has been the privilege of the few. We believe it should belong to everyone.
-
-**Astrolabe** is an open-source, AI-native interface framework for formal mathematics. Together with **OpenMath**, we are building infrastructure to accelerate the fusion of AI and mathematics — transforming mathematical knowledge into a universally accessible resource.
-
-We are not just building tools. We are exploring a new paradigm for mathematical research: one where humans use AI to amplify their creativity, to explore freely, and to accelerate discovery. Contributions are transparently rewarded. The barriers between professional mathematicians and curious minds dissolve.
-
-Through the OpenMath ecosystem, both **interface contributors** — the developers, designers, and AI engineers who build better ways to interact with formal mathematics — and **proof contributors** — the mathematicians, students, and researchers who advance human knowledge — are transparently rewarded for their work.
-
-The future of mathematics is formal. The future of mathematics is open. The future of mathematics is for everyone.
+The barrier is not intelligence — it's visibility. Formal proofs are powerful but opaque. The logic is rigorous, but the intuition is trapped in symbols that only experts can read.
+Astrolabe is an open-source visualization framework for formal mathematics. We make proofs visible, interactive, and explorable — across Lean, Coq, and other formal languages.
+We are building the interface layer for a new era of mathematical research: one where AI assists exploration, where learners can see what a proof means, and where the distance between curiosity and understanding collapses.
+The future of mathematics is formal. The future of mathematics is visible. The future of mathematics is for everyone.
 
 ---
 
