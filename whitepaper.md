@@ -8,11 +8,13 @@ January 2026
 
 ## Abstract
 
-Mathematics is the language of the universe. For centuries, it has been the privilege of the few. We believe it should belong to everyone.
-The barrier is not intelligence — it's visibility. Formal proofs are powerful but opaque. The logic is rigorous, but the intuition is trapped in symbols that only experts can read.
-Astrolabe is an open-source visualization framework for formal mathematics. We make proofs visible, interactive, and explorable — across Lean, Coq, and other formal languages.
-We are building the interface layer for a new era of mathematical research: one where AI assists exploration, where learners can see what a proof means, and where the distance between curiosity and understanding collapses.
-The future of mathematics is formal. The future of mathematics is visible. The future of mathematics is for everyone.
+Formal mathematics has always been static. Astrolabe makes it interactive.
+
+Navigate dependencies in 3D. Zoom into structures. Explore proofs like maps.
+
+The interface between machine verification and human understanding.
+
+As AI accelerates formal mathematics, we need new ways to interact with it. Astrolabe is a framework for building dynamic, explorable interfaces to formal proofs — for ITPs.
 
 ---
  
@@ -290,21 +292,16 @@ Together, we create a complete ecosystem: **accessible, incentivized, and open t
 | Organization | Role | Contribution | ASTRO Points Role |
 |--------------|------|--------------|-------------------|
 | **CertiK** | Blockchain Infrastructure | Shentu Chain, on-chain verification, security | Builders · Founder Circle |
-| **Feishu (菲数)** | Academic Bridge | Mathematician network, institutional partnerships, China-global collaboration | Growers · Educators |
+| **Feishu** | Academic Bridge | Mathematician network, institutional partnerships | Growers · Educators |
 | **RiskLab** | Quantitative Research | Risk modeling, industry connections | Educators · Reviewers |
 
 ---
 
 ## 6. Conclusion
 
-Mathematics is changing. AI is lowering the barriers. Formal verification is becoming accessible. The tools we use to explore, create, and share mathematical knowledge must evolve with it.
+Formal mathematics is accelerating. AI generates proofs faster than humans can read them.
 
-Astrolabe is our contribution to this evolution — an open framework for the community to discover the best ways to interact with formal mathematics in the age of AI.
-
-We are not building for mathematicians alone. We are building for everyone who believes that mathematical knowledge should be open, verifiable, and rewarding to create.
-
-**The future of mathematics is formal. The future of mathematics is open. The future of mathematics is for everyone.**
-
+Astrolabe creates the interface layer — making machine-verified mathematics explorable, interactive, and understandable.
 
 Join us.
 
