@@ -8,7 +8,7 @@ Astrolabe is an open collaborative framework for everyone to build mathematical 
 
 ## Links
 
-- Official Website: [https://www.astrolean.io/](https://www.astrolean.io/)
+- Official Website: [https://astrolabe-lean.io/](https://astrolabe-lean.io/)
 - Main Repository: [https://github.com/Xinze-Li-Bryan/Astrolabe](https://github.com/Xinze-Li-Bryan/Astrolabe)
 
 ## Whitepaper
